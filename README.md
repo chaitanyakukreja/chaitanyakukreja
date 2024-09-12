@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently a student studying Programming and Data Science from IITM and Electronics and Telecommunication Engineering at Dr. D. Y. Patil Institute of Technology, Pimpri, Pune
+- 🔭 I’m currently a student Electronics and Telecommunication Engineering at Dr. D. Y. Patil Institute of Technology, Pimpri, Pune
 - 🌱 I’m currently learning Data Science and doing Projects on appplication of Data
 - 😃 I Love to play chess and Football
 - 💬 Ask me about different perspectives regarding anything.
